@@ -1,16 +1,18 @@
-#navbar{
-    float:left;
-  position:fixed;
-  background-color:rgb(135, 135, 223);
-  width:100%;
-  margin-top:0;
-  height:50px;
+#navbar {
+  float: left;
+  position: fixed;
+  background-color: rgb(135, 135, 223);
+  width: 100%;
+  margin-top: 0;
+  height: 50px;
+}
+
+header {
+  font-weight:bold;
+}
+
+@media screen and(max-width: 500px) {
+  p {
+    color:green !important;
   }
-  header{
-    font-weight:bold;
-  }
-  @media screen and(max-width:500px) {
-    p{
-      color:green !important;
-    }
-  }
+}
