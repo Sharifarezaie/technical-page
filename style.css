@@ -1,0 +1,44 @@
+#navbar {
+  float: left;
+  position: fixed;
+  background-color: rgb(135, 135, 223);
+  width: 99%;
+  margin-top: -100px;
+  height: 100px;
+}
+
+h1 {
+  font-weight: bold;
+  margin-left: -70px;
+  text-align: center;
+}
+
+@media screen and(max-width: 500px) {
+  p {
+    color: green !important;
+  }
+}
+
+.nav-link {
+  float: right;
+  padding: 5px;
+  margin-top: -25px;
+  margin-right: 30px;
+  font-size: 20px;
+}
+
+.main-section {
+  margin-top: 2px;
+  background-color: lightblue;
+  padding: 10px;
+}
+
+header {
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
+
+#Html {
+  margin-top: 100px;
+}
