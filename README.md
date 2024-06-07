@@ -10,7 +10,10 @@ Title:
 
 ## Demo 📸
 
-![Demo](Sharifarezaie/technical-page)
+![Demo](thec1.png)
+![Alt text](thec1.png)
+![Alt text](thec2.png)
+
 
 ## Technologies Used 🛠️
 
