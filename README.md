@@ -10,9 +10,8 @@ Title:
 
 ## Demo 📸
 
-![Demo](thec1.png)
-![Alt text](thec1.png)
-![Alt text](thec2.png)
+![Demo](thec1.PNG)
+![Demo](thec2.PNG)
 
 
 ## Technologies Used 🛠️
